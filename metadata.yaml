@@ -1,0 +1,35 @@
+_repo: The-Sword-of-Johnny-Damokles_62323
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Parker, Hugh Frazier
+    gutenberg_agent_id: '51892'
+    url: http://www.gutenberg.org/2009/agents/51892
+description: ''
+gutenberg_issued: '2020-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Bombs -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Neptune (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Sword of Johnny Damokles
+url: http://www.gutenberg.org/ebooks/62323
